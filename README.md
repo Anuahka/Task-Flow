@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Smart Task & Project Manager
 
 A full-stack task and project management app built on the MERN stack. Create boards, manage tasks across a Kanban board, and get AI-powered effort estimates powered by Google Gemini.
@@ -237,3 +238,6 @@ Set environment variable: `VITE_API_URL=https://your-backend.onrender.com/api`
 | Password | `demo123` |
 
 > Replace with your own credentials after deploying.
+=======
+# Task-Flow
+>>>>>>> 1babe6e694bb513698b4ac50288188a2f02787c7
